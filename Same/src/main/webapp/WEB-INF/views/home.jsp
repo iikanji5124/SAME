@@ -11,5 +11,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <h6>캐치마인드 도전!!</h6>
+<h1>안녕 </h1>
 </body>
 </html>
